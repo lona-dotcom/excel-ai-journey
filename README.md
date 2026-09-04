@@ -13,3 +13,5 @@
 - [ ] Phase 9 - Construction de l'Agent IA branché sur Excel
 - [ ] Phase 10 - Projet Capstone (Excel + Agent IA)
 - [ ] Phase 11 - Finalisation Porfolio Github + CV/Linkedin
+  
+  "Chacun ecrit sa propre histoire..."
