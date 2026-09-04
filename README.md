@@ -14,5 +14,9 @@
 - [ ] Phase 10 - Projet Capstone (Excel + Agent IA)
 - [ ] Phase 11 - Finalisation Porfolio Github + CV/Linkedin
   
+<<<<<<< HEAD
   OK!!!
   Let's Do it Bro.
+=======
+  "Chacun ecrit sa propre histoire..."
+>>>>>>> perf/test_optimisation
