@@ -3,7 +3,7 @@
 # 🚀 Excel AI Journey
 <p align="center">
   <a href="https://github.com/VotreNom/excel-ai-journey">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=De+Excel+%C3%A0+l'Intelligence+Artificielle;Ma%C3%AEtrise+de+Power+Query+et+Power+Pivot;Automatisation+Python+avec+Openpyxl+%26+xlwings;Construction+d'Agents+IA+avec+LangChain;Votre+Portfolio+Data+%26+AI+Professionnel" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=De+Excel+%C3%A0+l%27Intelligence+Artificielle;Ma%C3%AEtrise+de+Power+Query+et+Power+Pivot;Automatisation+Python+avec+Openpyxl+%26+xlwings;Construction+d%27Agents+IA+avec+LangChain;Votre+Portfolio+Data+%26+AI+Professionnel" alt="Typing SVG" />
   </a>
 </p>
 
