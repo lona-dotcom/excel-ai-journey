@@ -1,6 +1,11 @@
 <div align="center">
 
 # 🚀 Excel AI Journey
+<p align="center">
+  <a href="https://github.com/VotreNom/excel-ai-journey">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=De+Excel+%C3%A0+l'Intelligence+Artificielle;Ma%C3%AEtrise+de+Power+Query+et+Power+Pivot;Automatisation+Python+avec+Openpyxl+%26+xlwings;Construction+d'Agents+IA+avec+LangChain;Votre+Portfolio+Data+%26+AI+Professionnel" alt="Typing SVG" />
+  </a>
+</p>
 
 ### De l'Automatisation Classique à l'Intelligence Artificielle
 *Un parcours d'apprentissage structuré, allant de la maîtrise avancée d'Excel et de Power Query à la création d'agents IA modernes.*
